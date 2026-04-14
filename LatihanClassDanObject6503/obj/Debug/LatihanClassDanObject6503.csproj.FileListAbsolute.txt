@@ -1,0 +1,8 @@
+D:\6503\LatihanClassDanObject6503\bin\Debug\LatihanClassDanObject6503.exe.config
+D:\6503\LatihanClassDanObject6503\bin\Debug\LatihanClassDanObject6503.exe
+D:\6503\LatihanClassDanObject6503\bin\Debug\LatihanClassDanObject6503.pdb
+D:\6503\LatihanClassDanObject6503\obj\Debug\LatihanClassDanObject6503.csproj.AssemblyReference.cache
+D:\6503\LatihanClassDanObject6503\obj\Debug\LatihanClassDanObject6503.csproj.SuggestedBindingRedirects.cache
+D:\6503\LatihanClassDanObject6503\obj\Debug\LatihanClassDanObject6503.csproj.CoreCompileInputs.cache
+D:\6503\LatihanClassDanObject6503\obj\Debug\LatihanClassDanObject6503.exe
+D:\6503\LatihanClassDanObject6503\obj\Debug\LatihanClassDanObject6503.pdb
