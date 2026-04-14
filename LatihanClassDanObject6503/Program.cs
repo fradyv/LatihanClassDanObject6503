@@ -13,8 +13,8 @@ namespace LatihanClassDanObject6503
             Mahasiswa saya = new Mahasiswa();
             Mahasiswa kamu = new Mahasiswa();
 
-            saya.Nim = "12345";
-            saya.Nama = "Jono";
+            saya.Nim = "25.11.6503";
+            saya.Nama = "Fastu Nadya Progresiva Iirrm";
             saya.Ipk = 3.95f;
 
             kamu.Nim = "12346";
